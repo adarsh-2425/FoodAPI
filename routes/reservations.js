@@ -5,7 +5,7 @@ const Reservation = require('../model/reservation');
 
 
 //Reservation Center
-//API for Reservation center = http://localhost:3000/foods/nearby/<placenamehere>
+//API for Reservation center = http://localhost:3000/reservation/create
 
 router.post('/create',(req,res)=>{
     let newReservation = new Reservation({
