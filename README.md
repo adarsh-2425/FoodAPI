@@ -29,3 +29,4 @@ http://localhost:3000/foods/read
 ```
 http://localhost:3000/reservation/read
 ```
+## Database is created and deployed from MongoDB Atlas. For more reference, I exported it and added to the folder 'Database'.

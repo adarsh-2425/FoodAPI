@@ -1,0 +1,89 @@
+[{
+  "_id": {
+    "$oid": "636fab262d19e3de987ef361"
+  },
+  "food": "Wings Snack Meal",
+  "foodCategory": "Non-Veg",
+  "price": 289,
+  "hotelName": "Chicking",
+  "hotelAddress": "Thopumpady, Thoppumpady",
+  "place": "Kochi",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636fab652d19e3de987ef363"
+  },
+  "food": "Beef mandhi - full",
+  "foodCategory": "Non-Veg",
+  "price": 1105,
+  "hotelName": "The Salt Restaurant",
+  "hotelAddress": "Fort Kochi, Thoppumpady",
+  "place": "Kochi",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636fab742d19e3de987ef365"
+  },
+  "food": "Al-faham chicken kuzhi mandhi half",
+  "foodCategory": "Non-Veg",
+  "price": 455,
+  "hotelName": "The Salt Restaurant",
+  "hotelAddress": "Fort Kochi, Thoppumpady",
+  "place": "Kochi",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636fabad2d19e3de987ef367"
+  },
+  "food": "Bbq Chicken Pizza",
+  "foodCategory": "Non-Veg",
+  "price": 135,
+  "hotelName": "La Pino'z Pizza",
+  "hotelAddress": "Kaloor, Shenoys",
+  "place": "Kochi",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636fabf72d19e3de987ef369"
+  },
+  "food": "Fresh Lime Juice",
+  "foodCategory": "Veg",
+  "price": 60,
+  "hotelName": "Paragon",
+  "hotelAddress": "Medical College, Kesavadasapuram",
+  "place": "Trivandrum",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636fac032d19e3de987ef36b"
+  },
+  "food": "Passion Fruit Mojito",
+  "foodCategory": "Veg",
+  "price": 160,
+  "hotelName": "Paragon",
+  "hotelAddress": "Medical College, Kesavadasapuram",
+  "place": "Trivandrum",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636fac1f2d19e3de987ef36d"
+  },
+  "food": "Water Melon Juice",
+  "foodCategory": "Veg",
+  "price": 130,
+  "hotelName": "Paragon",
+  "hotelAddress": "Medical College, Kesavadasapuram",
+  "place": "Trivandrum",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636fac472d19e3de987ef36f"
+  },
+  "food": "Prawns Dry Fry",
+  "foodCategory": "Non-Veg",
+  "price": 475,
+  "hotelName": "Paragon",
+  "hotelAddress": "Medical College, Kesavadasapuram",
+  "place": "Trivandrum",
+  "__v": 0
+}]
