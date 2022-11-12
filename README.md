@@ -18,3 +18,14 @@ http://localhost:3000/reservation/create
 ```
 Example Image from Postman <br />
 ![Example Image from Postman](https://github.com/adarsh-2425/FoodAPI/blob/5ee4c143973cb8d8011df074a6db2919dfa7194b/assets/ReservationAPI.PNG)
+
+## Additional APIs for Reference
+
+## View All Foods in the Database
+```
+http://localhost:3000/foods/read
+```
+## View All Reservations from the  Database
+```
+http://localhost:3000/reservation/read
+```
