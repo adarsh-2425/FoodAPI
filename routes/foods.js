@@ -36,7 +36,7 @@ router.post('/create',(req,res)=>{
     })
 });
 
-//View All food
+//View All food from the database
 
 router.get('/read',(req,res)=>{
     Food.find()

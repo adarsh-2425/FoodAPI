@@ -28,7 +28,7 @@ router.post('/create',(req,res)=>{
     })
 });
 
-//View reservation
+//View All reservation done by customers
 router.get('/read',(req,res)=>{
     Reservation.find()
     .then((reservations)=>{
